@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+
+echo "------ HOOK START - POST_BUILD -------"
+printenv
+
+echo "------ HOOK END - POST_BUILD -------"

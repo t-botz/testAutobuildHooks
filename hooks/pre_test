@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+
+echo "------ HOOK START - PRE_TEST -------"
+printenv
+
+echo "------ HOOK END - POST_CHECKOUT -------"

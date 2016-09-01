@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+
+echo "------ HOOK START - PRE_PUSH -------"
+printenv
+
+echo "------ HOOK END - PRE_PUSH -------"
